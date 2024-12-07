@@ -1,12 +1,12 @@
 import Navbar from "./Navbar";
-import Counter from "./Counter";
+import Header from "./Header";
 
 export default function Home() {
   return (
     <div>
      
       <Navbar />
-      <Counter />
+      <Header />
     </div>
   );
 }
